@@ -12,6 +12,10 @@ Hi there, welcome to my profile <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/d
 [![Zihao GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulsifi-ZiHao&count_private=true&show_icons=true&hide_title=true)](https://github.com/Pulsifi-ZiHao/github-readme-stats)
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 ⚙️ Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=windows&logoColor=00adef&color=2372a3)
@@ -36,10 +40,6 @@ Hi there, welcome to my profile <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/d
 📊 My Weekly Works
 
 [![Zihao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zihao&hide_title=true)](https://github.com/Pulsifi-ZiHao/github-readme-stats) -->
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 
