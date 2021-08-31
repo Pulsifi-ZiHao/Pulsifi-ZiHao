@@ -38,5 +38,8 @@ Hi there, welcome to my profile <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/d
 [![Zihao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zihao&hide_title=true)](https://github.com/Pulsifi-ZiHao/github-readme-stats)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
