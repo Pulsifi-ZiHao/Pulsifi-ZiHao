@@ -27,7 +27,7 @@ Hi there, welcome to my profile <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/d
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2372a3)
 ![](https://img.shields.io/badge/Code-GDP-informational?style=flat&logo=googlecloud&logoColor=white&color=2372a3)
 
----
+<!-- ---
 💡 Most Used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pulsifi-ZiHao&layout=compact&langs_count=8&hide_title=true)](https://github.com/Pulsifi-ZiHao/github-readme-stats)
@@ -35,7 +35,7 @@ Hi there, welcome to my profile <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/d
 ---
 📊 My Weekly Works
 
-[![Zihao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zihao&hide_title=true)](https://github.com/Pulsifi-ZiHao/github-readme-stats)
+[![Zihao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zihao&hide_title=true)](https://github.com/Pulsifi-ZiHao/github-readme-stats) -->
 
 
 <!--START_SECTION:waka-->
