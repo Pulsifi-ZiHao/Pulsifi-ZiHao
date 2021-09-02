@@ -12,6 +12,8 @@ Hi there, welcome to my profile <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/d
 [![Zihao GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulsifi-ZiHao&count_private=true&show_icons=true&hide_title=true)](https://github.com/Pulsifi-ZiHao/github-readme-stats)
 
 ---
+📊 This Week I Spent My Time On
+
 <!--START_SECTION:waka-->
 ```text
 TypeScript   2 hrs 42 mins   █████████████████▓░░░░░░░   71.11 % 
