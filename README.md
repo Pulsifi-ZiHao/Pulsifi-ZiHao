@@ -17,10 +17,10 @@ Hi there, welcome to my profile <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/d
 <!--START_SECTION:waka-->
 
 ```text
-HTML         8 hrs 38 mins   ████████████▒░░░░░░░░░░░░   49.39 %
-TypeScript   7 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   45.60 %
-JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-LESS         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+HTML         6 hrs 30 mins   ████████████░░░░░░░░░░░░░   47.96 %
+TypeScript   6 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   45.69 %
+JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+LESS         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
