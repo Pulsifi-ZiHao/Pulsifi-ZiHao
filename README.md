@@ -16,7 +16,7 @@ Hi there, welcome to my profile <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/d
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
